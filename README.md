@@ -11,7 +11,7 @@ Aluno da turma 11 do GoStack - Rocketseat 🚀, atualmente desenvolvendo sistema
 
 - ⚡ Tentando dominar o mundo, e também, React (hooks💜), React Native, Styled-Components💜💜 , TDD (_beginner_), UI & UX. 
 
-- 💬 Atenção plena as novas tendencias, principalmente de UI & UX.
+- 💬 Atenção plena as novas tendencias, principalmente de UI & UX (AdobeXD & Figma💜).
 
 - 📫 Como me encontrar: _pedrosilveira07@outlook.com_
 
