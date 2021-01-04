@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrque/)
 
 Desenvolvedor front-end, entusiasta de tecnologias de desenvolvimento web. Apaixonado por customizações! 😜
-Graduando em Análise e Desenvolvimento de Sistemas 4/5; 😁
+Graduando em Análise e Desenvolvimento de Sistemas 5/5; 😁
 Aluno da turma 11 do GoStack - Rocketseat 🚀, atualmente desenvolvendo sistemas web, focado em fazer aplicações funcionais e principalmente, bonitas!💅 
 
 
