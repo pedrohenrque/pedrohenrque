@@ -1,6 +1,6 @@
 # ⚡ Pedro Henrique
 
-**Lead Software Engineer at ** [Kinvo](https://www.kinvo.com.br/)
+**Lead Software Engineer at** [Kinvo](https://www.kinvo.com.br/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrque/)
 
