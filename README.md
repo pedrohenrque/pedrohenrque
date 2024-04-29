@@ -1,22 +1,21 @@
 # ⚡ Pedro Henrique
 
-**Lead Software Engineer at** [Kinvo](https://www.kinvo.com.br/)
+**Lead Software Engineer at** [Kinvo](https://www.kinvo.com.br/) 
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenrque/)
 
-Desenvolvedor front-end, entusiasta de tecnologias de desenvolvimento web e mobile. Apaixonado por customizações! 😜
-- Formado em Análise e Desenvolvimento de Sistemas; 😁
-- Aluno da turma 11 do GoStack / Ignite - Rocketseat 🚀
-- Aluno - JStack - Mateus Silva 
-- Estudando Arquitetura de Software, SOLID, TDD e GraphQl.
+Engenheiro de Software, graduado em Análise e Desenvolvimento de Sistemas pela
+Universidade UniRuy/Área 1. Sou um profissional autodidata, aficionado pelo desenvolvimento front-end, e sempre dedicado a criar experiências envolventes e intuitivas. Gosto dos desafios propostos pelo ambiente de desenvolvimento mobile. 
 
+- 2019 ~ 2020 - Bootcamp - Turma 11 do GoStack / Ignite - Rocketseat; 
+- 2022 ~ Atual - JStack - Mateus Silva
+- 2023 ~ 2024 - ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID - Udemy Rodrigo Manguinho
+  
 
-- ⚡ Trabalhando atualmente com: React (hooks💜), React Native, Typescript, Styled-Components, Redux, Storybook. 
+⚡ XP: React, React Native, Next.JS, Typescript, SOLID, TDD(estudando), DDD(estudando), Redux, Storybook, Swift(estudando). 
 
-- 💬 Curto bastante UI & UX (AdobeXD & Figma💜) [Profile Dribbble](https://dribbble.com/phklart) .
+💬 Curto bastante estudar UI & UX (AdobeXD & Figma) [Profile Dribbble](https://dribbble.com/phklart) .
 
-- 📫 Como me encontrar: _pedrosilveira07@outlook.com_
+📫 Como me encontrar: _pedrosilveira07@outlook.com_
 
-- 🎮 Player casual de CS:GO.
-
-> "SIC PARVIS MAGNA" ― Sir Francis Drake
+🎮 Player casual de CS2.
