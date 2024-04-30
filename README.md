@@ -16,6 +16,4 @@ Universidade UniRuy/Área 1. Sou um profissional autodidata, aficionado pelo des
 
 💬 Curto bastante estudar UI & UX (AdobeXD & Figma) [Profile Dribbble](https://dribbble.com/phklart) .
 
-📫 Como me encontrar: _pedrosilveira07@outlook.com_
-
 🎮 Player casual de CS2.
