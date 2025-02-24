@@ -14,7 +14,7 @@ Engenheiro de Software Front-end com mais de 4 anos de experiência de desenvolv
 
 ⚡ XP: React, React Native, Next.js, TypeScript, CI/CD, Redux, MobX, Test-Driven Development (TDD), Testes Unitários com Jest, Storybook, SOLID, Clean Architecture, Publicação de Apps via Play Store e Apple Store, Google Play Console, Apple Connect, Swift Package Manager + CocoaPods, Webpack, Firebase, Azure, Sentry, Datadog, Growth Analytics, Design SystemUI/UX, Tailwind CSS, Styled Components, HTML + CSS, JavaScript, Jira, Bitbucket, Adobe XD, Figma.
 
-🔥 Estudando Node.js e Swift
+🔥 Estudando Node.js (Fastify, Nest.js, Prisma, Docker, PostgreSQL) e Swift
 
 💬 Curto bastante estudar UI & UX (AdobeXD & Figma) [Profile Dribbble](https://dribbble.com/phklart) .
 
